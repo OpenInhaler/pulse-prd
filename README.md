@@ -1,2 +1,2 @@
-# prd-template
-Template for creating a Product Requirement Document
+# Pulse PRD
+This is a repo containing the product requirement document for the OpenInhaler Pulse.
